@@ -1,0 +1,15 @@
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.csproj.AssemblyReference.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.AssemblyInfoInputs.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.AssemblyInfo.cs
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.csproj.CoreCompileInputs.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\bin\Debug\net6.0\задача9.exe
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\bin\Debug\net6.0\задача9.deps.json
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\bin\Debug\net6.0\задача9.runtimeconfig.json
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\bin\Debug\net6.0\задача9.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\bin\Debug\net6.0\задача9.pdb
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\refint\задача9.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.pdb
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\задача9.genruntimeconfig.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача9\obj\Debug\net6.0\ref\задача9.dll
