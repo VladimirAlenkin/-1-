@@ -1,0 +1,15 @@
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.csproj.AssemblyReference.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.AssemblyInfoInputs.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.AssemblyInfo.cs
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.csproj.CoreCompileInputs.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\bin\Debug\net6.0\задача_6.exe
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\bin\Debug\net6.0\задача_6.deps.json
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\bin\Debug\net6.0\задача_6.runtimeconfig.json
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\bin\Debug\net6.0\задача_6.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\bin\Debug\net6.0\задача_6.pdb
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\refint\задача_6.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.pdb
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\задача_6.genruntimeconfig.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka_1\задача_6\obj\Debug\net6.0\ref\задача_6.dll
